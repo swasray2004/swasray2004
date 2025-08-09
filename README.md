@@ -1,6 +1,6 @@
 #  About Me:
 ### Hi ,this is Swastika Ray.
-Aspiring Android App Developer and Hindustani Classical Vocalist.<br>Listening to old hindi classics, having Roshogolla and interacting with bugs is my ideal weekend day.
+Aspiring Android App Developer and Hindustani Classical Vocalist.<br>Listening to old hindi classics, and interacting with bugs.
 
 
 ## Socials:
